@@ -1,4 +1,4 @@
-# Welcome to My Main GitHub Page
+# Welcome!
 
-This is my main GitHub website.  
-Links to my projects will appear here.
+## My Project
+- [NBA Draft Project Website]([https://ledjojt.github.io/your-project-repo/](https://ledjojt.github.io/NBADraftProject/))
